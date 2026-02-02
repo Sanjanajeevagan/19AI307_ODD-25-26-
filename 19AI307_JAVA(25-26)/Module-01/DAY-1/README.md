@@ -25,9 +25,9 @@ Displays the result of each operation in a separate line with a clear message.
 
 ## AIM:
 
-```
+
 To write a Java program that reads two integer numbers from the user and performs basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus, and displays the results.
-```
+
 
 
 ## ALGORITHM :
@@ -72,3 +72,4 @@ public class Main{
 ## RESULT:
 
 The program has been executed successfully and the desired output has been obtained.
+
